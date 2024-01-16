@@ -1,0 +1,95 @@
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\appsettings.Development.json
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\appsettings.json
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\hospital management system.API.exe
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\hospital management system.API.deps.json
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\hospital management system.API.runtimeconfig.json
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\hospital management system.API.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\hospital management system.API.pdb
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\AutoMapper.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Azure.Core.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Azure.Identity.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Humanizer.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\System.CodeDom.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\System.Memory.Data.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\hospital  management system.Core.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\hospital  management system.EF.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\hospital  management system.EF.pdb
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\hospital  management system.Core.pdb
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\obj\Debug\net7.0\hospital management system.API.csproj.AssemblyReference.cache
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\obj\Debug\net7.0\hospital management system.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\obj\Debug\net7.0\hospital management system.API.AssemblyInfoInputs.cache
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\obj\Debug\net7.0\hospital management system.API.AssemblyInfo.cs
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\obj\Debug\net7.0\hospital management system.API.csproj.CoreCompileInputs.cache
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\obj\Debug\net7.0\hospital management system.API.MvcApplicationPartsAssemblyInfo.cs
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\obj\Debug\net7.0\hospital management system.API.MvcApplicationPartsAssemblyInfo.cache
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\obj\Debug\net7.0\staticwebassets\msbuild.hospital management system.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\obj\Debug\net7.0\staticwebassets\msbuild.build.hospital management system.API.props
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.hospital management system.API.props
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.hospital management system.API.props
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\obj\Debug\net7.0\staticwebassets.build.json
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\obj\Debug\net7.0\staticwebassets.development.json
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\obj\Debug\net7.0\scopedcss\bundle\hospital management system.API.styles.css
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\obj\Debug\net7.0\hospital management system.API.csproj.CopyComplete
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\obj\Debug\net7.0\hospital management system.API.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\obj\Debug\net7.0\refint\hospital management system.API.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\obj\Debug\net7.0\hospital management system.API.pdb
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\obj\Debug\net7.0\hospital management system.API.genruntimeconfig.cache
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\obj\Debug\net7.0\ref\hospital management system.API.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\MailKit.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\MimeKit.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital management system.API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll

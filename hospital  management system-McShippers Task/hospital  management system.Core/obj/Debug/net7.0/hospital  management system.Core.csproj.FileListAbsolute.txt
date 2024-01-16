@@ -1,0 +1,12 @@
+D:\McShippers Task\hospital  management system-McShippers Task\hospital  management system.Core\bin\Debug\net7.0\hospital  management system.Core.deps.json
+D:\McShippers Task\hospital  management system-McShippers Task\hospital  management system.Core\bin\Debug\net7.0\hospital  management system.Core.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital  management system.Core\bin\Debug\net7.0\hospital  management system.Core.pdb
+D:\McShippers Task\hospital  management system-McShippers Task\hospital  management system.Core\obj\Debug\net7.0\hospital  management system.Core.csproj.AssemblyReference.cache
+D:\McShippers Task\hospital  management system-McShippers Task\hospital  management system.Core\obj\Debug\net7.0\hospital  management system.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\McShippers Task\hospital  management system-McShippers Task\hospital  management system.Core\obj\Debug\net7.0\hospital  management system.Core.AssemblyInfoInputs.cache
+D:\McShippers Task\hospital  management system-McShippers Task\hospital  management system.Core\obj\Debug\net7.0\hospital  management system.Core.AssemblyInfo.cs
+D:\McShippers Task\hospital  management system-McShippers Task\hospital  management system.Core\obj\Debug\net7.0\hospital  management system.Core.csproj.CoreCompileInputs.cache
+D:\McShippers Task\hospital  management system-McShippers Task\hospital  management system.Core\obj\Debug\net7.0\hospital  management system.Core.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital  management system.Core\obj\Debug\net7.0\refint\hospital  management system.Core.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital  management system.Core\obj\Debug\net7.0\hospital  management system.Core.pdb
+D:\McShippers Task\hospital  management system-McShippers Task\hospital  management system.Core\obj\Debug\net7.0\ref\hospital  management system.Core.dll

@@ -1,0 +1,17 @@
+D:\McShippers Task\hospital  management system-McShippers Task\hospital  management system.EF\bin\Debug\net7.0\hospital  management system.EF.deps.json
+D:\McShippers Task\hospital  management system-McShippers Task\hospital  management system.EF\bin\Debug\net7.0\hospital  management system.EF.runtimeconfig.json
+D:\McShippers Task\hospital  management system-McShippers Task\hospital  management system.EF\bin\Debug\net7.0\hospital  management system.EF.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital  management system.EF\bin\Debug\net7.0\hospital  management system.EF.pdb
+D:\McShippers Task\hospital  management system-McShippers Task\hospital  management system.EF\bin\Debug\net7.0\hospital  management system.Core.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital  management system.EF\bin\Debug\net7.0\hospital  management system.Core.pdb
+D:\McShippers Task\hospital  management system-McShippers Task\hospital  management system.EF\obj\Debug\net7.0\hospital  management system.EF.csproj.AssemblyReference.cache
+D:\McShippers Task\hospital  management system-McShippers Task\hospital  management system.EF\obj\Debug\net7.0\hospital  management system.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\McShippers Task\hospital  management system-McShippers Task\hospital  management system.EF\obj\Debug\net7.0\hospital  management system.EF.AssemblyInfoInputs.cache
+D:\McShippers Task\hospital  management system-McShippers Task\hospital  management system.EF\obj\Debug\net7.0\hospital  management system.EF.AssemblyInfo.cs
+D:\McShippers Task\hospital  management system-McShippers Task\hospital  management system.EF\obj\Debug\net7.0\hospital  management system.EF.csproj.CoreCompileInputs.cache
+D:\McShippers Task\hospital  management system-McShippers Task\hospital  management system.EF\obj\Debug\net7.0\hospital  management system.EF.csproj.CopyComplete
+D:\McShippers Task\hospital  management system-McShippers Task\hospital  management system.EF\obj\Debug\net7.0\hospital  management system.EF.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital  management system.EF\obj\Debug\net7.0\refint\hospital  management system.EF.dll
+D:\McShippers Task\hospital  management system-McShippers Task\hospital  management system.EF\obj\Debug\net7.0\hospital  management system.EF.pdb
+D:\McShippers Task\hospital  management system-McShippers Task\hospital  management system.EF\obj\Debug\net7.0\hospital  management system.EF.genruntimeconfig.cache
+D:\McShippers Task\hospital  management system-McShippers Task\hospital  management system.EF\obj\Debug\net7.0\ref\hospital  management system.EF.dll
